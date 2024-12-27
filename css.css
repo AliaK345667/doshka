@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f8ff;
+}
+
+h1 {
+    color: #333;
+}
+
+#wish-form {
+    margin: 20px 0;
+}
+
+#wish-input {
+    width: 300px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+#add-wish-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#wish-board {
+    margin-top: 20px;
+}
+
+#wish-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#wish-list li {
+    background-color: #fff;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ddd;
+}
